@@ -1,0 +1,1 @@
+This is a Library Management System created using Angular + Java + Postgresql
